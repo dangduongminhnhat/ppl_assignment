@@ -1,0 +1,12 @@
+
+
+func foo()
+func main()
+begin
+    number a[3,2] <- [foo(), foo(), foo()]
+    a[1] <- foo()
+end
+
+func foo() return [1, 2, 3]
+
+		

@@ -1,0 +1,6 @@
+func,key,(,bool,b,),
+,begin,
+,boolean,b,<-,false,
+,return,b,and,b,
+,end,
+,<EOF>

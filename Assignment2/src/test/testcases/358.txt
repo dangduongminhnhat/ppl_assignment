@@ -1,0 +1,5 @@
+
+func main(number a, string s, bool _, number xxx[1, 2, 3])
+begin
+    do_something(a, s, _, xxx)
+end

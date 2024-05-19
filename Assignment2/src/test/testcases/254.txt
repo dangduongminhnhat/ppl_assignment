@@ -1,0 +1,6 @@
+ 
+            var MiNhat <- a()
+            var MiNhat <- a(1,2)
+            var MiNhat <- a(x,array[2])[2]
+            var MiNhat <- a(z,k[3] ... 2)[1,2]
+        

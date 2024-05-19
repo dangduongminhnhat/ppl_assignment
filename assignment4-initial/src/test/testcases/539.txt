@@ -1,0 +1,7 @@
+
+        func main ()
+        begin
+            writeBool("minh" == "nhat") 
+            writeBool("nhat" == "nhat")
+        end
+        

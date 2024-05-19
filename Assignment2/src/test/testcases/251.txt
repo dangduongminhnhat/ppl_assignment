@@ -1,0 +1,2 @@
+var MiNhat <- - not 1
+        

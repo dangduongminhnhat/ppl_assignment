@@ -1,0 +1,14 @@
+
+func foo(number a)
+begin
+    if ((a=1) or (a=0)) return 1
+    return a*foo(a)
+end
+
+number arr[2,3] <- [[1,2,3],[5*6,7%2,-3.13E-6*foo(foo(3))]]
+
+func main()
+begin
+    number a<- arr[foo(1),foo(3)%3]
+    return
+end

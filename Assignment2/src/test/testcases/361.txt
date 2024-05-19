@@ -1,0 +1,25 @@
+
+## This is a comment
+ ## This is a comment
+  ## This is a comment
+   ## This is a comment
+    ## This is a comment
+     ## This is a comment
+      ## This is a comment
+       ## This is a comment
+        ## This is a comment
+         ## This is a comment
+
+
+func main()
+begin
+    if (not not not (a and b or c and not d)) if (not not not (a and b or c and not d))
+    if (not not not (a and b or c and d))
+    if (not not not (a and b or c > d))
+    if (foo()[1, 0])
+    if ("string") if ([1, 2, 3, 4])
+    if ((("a" ... "b") ... c) > ((a * b * d + foo()[1, 2, 3]) <= (not a and not not c)))
+    if ((("a" ... "b") ... c) > ((a * b * d + foo()[1, 2, 3]) <= (not a and not not c)))
+    if ((foo() + _() - __(12, 3, "abc", [1, 2, 3])) > __aaa__("a", "", "\n", abc, not false, true))
+    if (true) if (false) do_something()
+end

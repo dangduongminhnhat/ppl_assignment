@@ -1,0 +1,9 @@
+
+        func foo()
+            return "minhat"
+        func main ()
+        begin
+            string a <- foo()
+            writeString(a)
+        end
+        

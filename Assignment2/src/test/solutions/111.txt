@@ -1,0 +1,7 @@
+
+,
+,func,main,(,),
+,begin,
+,writeString,(,Hello world,),
+,end,
+,<EOF>

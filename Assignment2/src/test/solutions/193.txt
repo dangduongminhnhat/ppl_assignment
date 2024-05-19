@@ -1,0 +1,9 @@
+
+,func,main,(,),
+,begin,
+,ho,=,Dang Duong Minh,
+,ten,=,Nhat,
+,fullname,=,ho,..., ,...,ten,
+,printString,(,fullname,),
+,end,
+,<EOF>

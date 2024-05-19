@@ -1,0 +1,15 @@
+
+func foo(number y)
+begin
+    return y
+end        
+
+func foo(number x)
+begin
+    return x
+end
+
+func main()
+begin
+    writeNumber(x)
+end

@@ -1,0 +1,3 @@
+ func main() begin
+    var a<-2 dynamic b<-3
+end

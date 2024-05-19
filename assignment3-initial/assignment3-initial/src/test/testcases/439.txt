@@ -1,0 +1,10 @@
+##DO NOT KNOW
+        func main() return
+        func foo(bool b) begin
+    number n <- 2
+    string str <- "huhu"
+    if (b)  n <- n + 1
+    else begin
+    return 10
+    end
+end

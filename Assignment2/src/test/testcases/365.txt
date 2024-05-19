@@ -1,0 +1,15 @@
+
+func main()
+begin
+    number a <- 5
+    begin
+        number b <- 5
+        begin
+            number c <- 5
+            begin
+                number d <- a + (b) + (c) + d
+                return d
+            end
+        end
+    end
+end

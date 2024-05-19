@@ -1,0 +1,6 @@
+func,foo,(,number,a,[,5,],,,string,b,),
+,begin,
+,aPI,<-,3.14,
+,l,[,3,],<-,value,*,aPi,
+,end,
+,<EOF>

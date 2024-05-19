@@ -1,0 +1,5 @@
+
+            dynamic MiNhat
+            var x <- MiNhat + MiNhat * MiNhat
+            number y <- MiNhat
+        

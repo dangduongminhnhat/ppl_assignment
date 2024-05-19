@@ -1,0 +1,10 @@
+func,main,(,),
+,begin,
+,arr,[,BTL,],<-,true,
+,
+,arr,[,0,],<-,b,[,PPL,,,2,],
+,
+,x,<-,qua,+,3,
+,
+,end,
+,<EOF>

@@ -1,0 +1,8 @@
+
+            func MiNhat()
+            func main() begin
+                number MiNhat_ <- MiNhat()
+            end
+            func MiNhat() begin
+            end
+        

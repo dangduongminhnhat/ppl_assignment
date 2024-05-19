@@ -1,0 +1,6 @@
+func bar(bool str[6*2])
+## begin
+var x <- y + "abc\'x"
+end
+
+number arr[true]

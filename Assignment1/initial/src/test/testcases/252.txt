@@ -1,0 +1,11 @@
+func bar(number arr,bool b )
+begin
+x[2,8] <- foo([1,2,"abcd",154/4])
+number x <- readString()
+number x[6] <- [1,2,3]
+## Comment
+
+
+end
+
+## Day la comment ben ngoai

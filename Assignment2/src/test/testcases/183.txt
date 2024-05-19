@@ -1,0 +1,7 @@
+
+s = "an illegal escape: \k"
+a = 5
+func main()
+begin
+    return 0
+end

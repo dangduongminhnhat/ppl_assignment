@@ -1,0 +1,8 @@
+func,isPrime,(,number,x,),
+,func,main,(,),
+,begin,
+,number,x,<-,readNumber,(,),
+,if,(,isPrime,(,x,),),writeString,(,Yes,),
+,else,writeString,(,No,),
+,end,
+,<EOF>

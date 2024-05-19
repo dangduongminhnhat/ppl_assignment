@@ -1,0 +1,15 @@
+
+
+func foo(number arr[1, 2]) return
+dynamic x
+			
+func main()
+begin
+    number b[1, 2]
+    dynamic a 
+    a <- [[x, x]]
+	a <- b
+	return foo(a)
+end
+
+		

@@ -1,0 +1,3 @@
+func foo(string str)
+begin
+writeString(str)

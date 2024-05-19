@@ -1,0 +1,6 @@
+## this program has only two lines: this comment and the following function declaration.
+
+func main() 
+begin
+writeString("Hello world")
+end

@@ -1,0 +1,7 @@
+
+            dynamic MiNhat
+            number a <- MiNhat
+            number b <- MiNhat
+
+            func main() return
+        

@@ -1,0 +1,5 @@
+for,i,until,i,>,x,/,2,by,1,
+,begin,
+,if,(,x,%,i,=,0,),return,false,
+,end,
+,<EOF>

@@ -1,0 +1,6 @@
+
+func test_exp()
+begin
+    bool a <- a <= (b = ((k > (h == (b < c))) < (d > (e == f))))
+    return a
+end

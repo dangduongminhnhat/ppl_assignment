@@ -1,0 +1,5 @@
+
+func arrayDestroyer()
+begin
+    number a <- [[[[[[[[[[[[[[[[[[[[[[[[[[foo()[1, 2, 3]]]]]]]]]]]]]]]]]]]]]]]]]]]
+end

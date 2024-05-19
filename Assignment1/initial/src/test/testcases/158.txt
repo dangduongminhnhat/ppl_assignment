@@ -1,0 +1,6 @@
+##func max(number a, number b)
+## begin
+## Comment 1
+##if (x <- 6) else doSomething()
+## Comment 2
+##end

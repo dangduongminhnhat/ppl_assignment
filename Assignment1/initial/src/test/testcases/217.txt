@@ -1,0 +1,4 @@
+func return(bool b)
+begin
+x <- 6 +
+end

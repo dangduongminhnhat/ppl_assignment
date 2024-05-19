@@ -1,0 +1,23 @@
+
+
+func foo(number a)
+begin
+    dynamic b
+    dynamic c <- foo(b) + 1
+    b <- 1 + c
+    if (a > 0)
+        return b
+    elif (a = 0)
+        return c
+    elif (a < 0)
+        return 0    
+    else
+        return true
+end
+
+func main()
+begin
+    dynamic a <- foo(5) 
+end
+
+		

@@ -1,0 +1,10 @@
+func max(number a, string b)
+begin 
+if foo(boolean >= 4) 
+doSomething(a,2,"b")
+
+
+elif (abc > "abc")
+
+doSomethingElif(b,true,foo(x,2))
+end

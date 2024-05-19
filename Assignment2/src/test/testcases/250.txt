@@ -1,0 +1,4 @@
+ 
+            var MiNhat <- -1 * not 1
+            var MiNhat <- not not not----C
+        

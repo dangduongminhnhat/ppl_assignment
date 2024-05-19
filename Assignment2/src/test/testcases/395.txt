@@ -1,0 +1,11 @@
+
+func main() 
+begin 
+    bool a<-true 
+    bool b<-false 
+    if (not a) 
+        if (b) writeString("b is correct")
+        else writeString("b is not correct")
+    else writeString("a is correct")
+    return
+end

@@ -1,0 +1,6 @@
+
+func main() 
+begin
+    dynamic a
+    a <- ((A or B and C + 3*2%4/3)<=(not(-1+foo(x+y*(z-1)))))...(x!=y)
+end

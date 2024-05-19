@@ -1,0 +1,12 @@
+
+func returN(bool rEturn)
+return
+
+
+func True(number _) begin       
+if ((x <= _ and f(z)) == true or arr[1,2,3]) if ([2,3] == yx..."") xy <- xy
+        else falSe(a,2,"b")
+        var foo <- f[[[61,1,3],4],[7+8]] + arr[3][5]
+        return True(true) + i*falSe[]
+
+end

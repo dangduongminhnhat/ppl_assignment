@@ -1,0 +1,11 @@
+
+number x
+string s <- "Hello"
+var y <- 1.0
+dynamic z
+number k <- "OK"        
+
+func main()
+begin
+    writeNumber(x)
+end

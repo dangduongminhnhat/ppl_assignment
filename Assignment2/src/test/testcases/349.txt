@@ -1,0 +1,5 @@
+
+func test_exp()
+begin
+    number a <- a[1, [1, 2]]
+end

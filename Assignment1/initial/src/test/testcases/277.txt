@@ -1,0 +1,12 @@
+func min(number _) begin       
+if (x <= _) begin 
+        foo(a,2,"b")
+    end
+for index until index * 2 by "abc" 
+if (1) begin   
+    end
+    _(boolean,_) begin
+
+    _() 
+    end
+end

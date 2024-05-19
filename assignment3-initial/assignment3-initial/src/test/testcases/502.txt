@@ -1,0 +1,9 @@
+
+number x
+var y <- 1.0
+dynamic z        
+
+func main()
+begin
+    writeNumber(x)
+end

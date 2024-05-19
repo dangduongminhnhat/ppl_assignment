@@ -1,0 +1,13 @@
+
+func returN(bool rEturn)
+return
+
+
+func True(number _) begin       
+if ((x <= _ and f(z)) == true or _) if (xy == yx..."") xy <- xy
+        else falSe(a,2,"b")
+        foo[5] <- foo(x)[7,[1,[2,[3,[4,1+6 - false,"\n"]]]]] + 7
+        return True(true) + i*falSe[12,"34",[2]]
+
+end
+## something

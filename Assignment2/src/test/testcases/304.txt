@@ -1,0 +1,4 @@
+
+            string MiNhat[5] <- 1
+            string MiNhat[5]
+        

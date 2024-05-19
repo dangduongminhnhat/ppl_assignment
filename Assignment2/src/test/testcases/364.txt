@@ -1,0 +1,13 @@
+
+func foo(number a, string s)
+func main(bool arr)
+func goo(number ABDS__)
+func build(number ABC1092__ADBsdlhs__)
+func create(number dosomething)
+func hey(string arr[1, 2, 3])
+func go(string arr[3, 4, 5])
+func do()
+func ____()
+func _____abc____ABC___()
+func ODLLAHJLBOSE()
+func xxxxxxxxxxxxx()

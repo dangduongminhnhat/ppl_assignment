@@ -1,0 +1,20 @@
+
+func callingDestroyer()
+begin
+    call()
+    call(call())
+    call(call(call()))
+    call(call(call(call())))
+    call(call(call(call(call()))))
+    call(call(call(call(call(call())))))
+    call(call(call(call(call(call(call()))))))
+    call(call(call(call(call(call(call(call())))))))
+    call(call(call(call(call(call(call(call(call()))))))))
+    call(call(call(call(call(call(call(call(call(call())))))))))
+    call(call(call(call(call(call(call(call(call(call(call()))))))))))
+    call(call(call(call(call(call(call(call(call(call(call(call())))))))))))
+    call(call(call(call(call(call(call(call(call(call(call(call(call()))))))))))))
+    call(call(call(call(call(call(call(call(call(call(call(call(call(call())))))))))))))
+    call(call(call(call(call(call(call(call(call(call(call(call(call(call(call()))))))))))))))
+    call(call(call(call(call(call(call(call(call(call(call(call(call(call(call(call())))))))))))))))
+end

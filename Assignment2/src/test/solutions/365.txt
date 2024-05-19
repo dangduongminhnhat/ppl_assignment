@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([VarDecl(Id(a), NumberType, None, NumLit(5.0)), Block([VarDecl(Id(b), NumberType, None, NumLit(5.0)), Block([VarDecl(Id(c), NumberType, None, NumLit(5.0)), Block([VarDecl(Id(d), NumberType, None, BinaryOp(+, BinaryOp(+, BinaryOp(+, Id(a), Id(b)), Id(c)), Id(d))), Return(Id(d))])])])]))])

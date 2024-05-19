@@ -1,0 +1,3 @@
+ 
+for	until + end	false not	"abcd"
+> for / + ,	* true 20E-3364 ( <= break

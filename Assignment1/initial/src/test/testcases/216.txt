@@ -1,0 +1,5 @@
+func foo()
+var x <- 7 + (t - false)
+begin
+writeString(str)
+end

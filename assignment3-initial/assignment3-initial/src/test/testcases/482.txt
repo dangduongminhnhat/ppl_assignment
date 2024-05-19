@@ -1,0 +1,4 @@
+
+            dynamic a
+            var x <- a > a ... a < a
+        

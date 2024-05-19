@@ -1,0 +1,7 @@
+
+,func,main,(,),
+,begin,
+,
+,ahihi,<-,8989,
+,end,
+,<EOF>

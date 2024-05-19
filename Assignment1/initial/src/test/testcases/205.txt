@@ -1,0 +1,9 @@
+func main()  
+    begin
+        var x <- const* (4 + -12)
+    x <- 7 and 1
+number arr[3] <- [const,n[8],  getVar(6,true)]
+
+end
+
+

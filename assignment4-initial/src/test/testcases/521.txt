@@ -1,0 +1,7 @@
+
+        func main ()
+        begin
+            bool a <- readBool() 
+            writeBool(a)
+        end
+        

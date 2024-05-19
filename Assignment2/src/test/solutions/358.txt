@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [VarDecl(Id(a), NumberType, None, None), VarDecl(Id(s), StringType, None, None), VarDecl(Id(_), BoolType, None, None), VarDecl(Id(xxx), ArrayType([1.0, 2.0, 3.0], NumberType), None, None)], Block([CallStmt(Id(do_something), [Id(a), Id(s), Id(_), Id(xxx)])]))])

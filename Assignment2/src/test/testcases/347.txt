@@ -1,0 +1,6 @@
+
+func test_exp()
+begin
+    bool a <- not not a and b or not not c or d or e and b < not not not c and d or e or not not e
+    return a
+end

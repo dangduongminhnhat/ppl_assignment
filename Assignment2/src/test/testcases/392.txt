@@ -1,0 +1,6 @@
+
+func main() 
+begin 
+    number a[4,6,7,8]
+    a[3,2,1,ahahaha(4)] <- 1
+end

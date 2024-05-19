@@ -1,0 +1,17 @@
+
+
+func f(number x)
+begin
+    if (x = 0) return 0
+    elif (x = 1) return 1
+    else return f(x - 1) + f(x - 2)
+end
+    
+func main()
+begin
+    dynamic a
+    number x <- f(a)
+    a[0] <- [1, 2, 3]
+end
+
+		

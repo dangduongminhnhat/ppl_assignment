@@ -1,0 +1,11 @@
+
+func calc()
+begin
+    number a <- 5 ## This is a
+    number b <- 5 ## This is b
+    number c <- 5 ## This is c
+    number d <- 5 ## This is d
+    ## This is e number e <- a + b + c + d
+    number e <- (a) + (b) + ((c) + (d))
+    return e ## This is return
+end ## This is end of function

@@ -1,0 +1,7 @@
+
+func main(number a, number b) begin
+number a[1, 2] <- [[2, 3]]
+string b <- 1.e-12
+bool c <- "abc"
+return main(a, 3, d, b)
+end

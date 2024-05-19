@@ -1,0 +1,1 @@
+Program([VarDecl(Id(MiNhat), NumberType, None, None)])

@@ -1,0 +1,7 @@
+
+,begin,
+,number,r,
+,number,s,
+,r,<-,2.0,
+,s,<-,r,*,r,*,3.14,
+,<EOF>

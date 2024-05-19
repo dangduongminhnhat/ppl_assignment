@@ -1,0 +1,4 @@
+
+            dynamic MiNhat
+            var x <- MiNhat and (MiNhat > MiNhat)
+        

@@ -1,0 +1,7 @@
+
+            number MiNhat
+            var a <- MiNhat
+            number b <- a
+
+            func main() return
+        

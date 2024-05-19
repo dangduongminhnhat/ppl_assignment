@@ -1,0 +1,10 @@
+
+func main() begin 
+var i<-0
+for i until i=10 by 1
+    begin 
+        var j<--0.87e-4
+        i <- i*j
+        continue
+    end
+end

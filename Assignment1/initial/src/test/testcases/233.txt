@@ -1,0 +1,7 @@
+func bar(number arr[6,8])
+begin
+## number arr[6,8]
+x[6,8] <- y + "abc\'x"...6
+## end
+
+number arr[true]

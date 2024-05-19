@@ -1,0 +1,9 @@
+
+,func,main,(,),
+,func,foo,(,),
+,func,f,(,),
+,func,main,(,),return,
+,func,foo,(,),return,
+,func,f,(,),return,
+,end,
+,<EOF>

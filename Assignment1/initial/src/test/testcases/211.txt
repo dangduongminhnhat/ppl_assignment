@@ -1,0 +1,4 @@
+func func(string str)
+begin
+    writeString(str)    
+end

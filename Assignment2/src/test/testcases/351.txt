@@ -1,0 +1,5 @@
+
+func test_exp()
+begin
+    number a <- [1, [1], [[1]], [[[1]]], [[[[1]]]]]
+end

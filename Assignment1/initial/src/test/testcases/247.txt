@@ -1,0 +1,5 @@
+func bar(number arr,bool b )
+begin
+x[2,8] <- [1,2,"3",154/4]
+var x <- [1,3.4]
+end

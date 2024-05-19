@@ -1,0 +1,9 @@
+ 
+            var MiNhat <- true > "true" 
+            var Minhat <- true >= "true"
+            var MiNhat <- true = "true"
+            var MiNhat <- true == "true"
+            var MiNhat <- true < "true"
+            var MiNhat <- true <= "true"
+            var MiNhat <- true >= "true" ... 1 > 2
+        

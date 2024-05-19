@@ -1,0 +1,6 @@
+
+    func a()
+    func main() begin
+        a()
+    end
+    func a() return 1

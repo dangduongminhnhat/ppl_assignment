@@ -1,0 +1,18 @@
+
+func main()
+begin
+    number _ <- readNumber()
+    number __<- readNumber()
+    for _ until _*_ = _+_*_-2*_ by _+_
+        if (_) 
+            for _ until _/(_*_)%_ < _/(_*_+_) by _/_
+                if (_*_<_+_) begin
+                end
+                elif (__<_) if ((__+_/__ = _%__) and (__*_< -1)) 
+                    for _ until _/(_*_)%_ < _/(_*_+_) by _/_ 
+                        if (true) break 
+                        else continue
+                else break
+        elif (true) continue
+        else break
+end

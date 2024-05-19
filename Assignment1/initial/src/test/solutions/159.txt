@@ -1,0 +1,4 @@
+func,bar,(,number,arr,,,bool,b,),
+,begin,
+,x,[,2,,,8,],<-,foo,(,[,1,,,2,,,abcd,,,154,/,4,],),
+,number,x,<-,readString,(,),<EOF>

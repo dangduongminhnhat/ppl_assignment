@@ -1,0 +1,4 @@
+number,x,<-,readString,(,i,),
+,number,x,[,6,],<-,[,1,,,2,,,3,],
+,
+,<EOF>

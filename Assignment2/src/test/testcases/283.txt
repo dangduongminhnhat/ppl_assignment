@@ -1,0 +1,3 @@
+func main(number b, string b, number a[5]) return 2
+            number a
+            

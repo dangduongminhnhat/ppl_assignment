@@ -1,0 +1,22 @@
+
+func a()
+begin
+    begin
+        begin
+            begin
+                begin
+                    begin
+                        begin
+                        call()
+                            begin
+                                ##aaaa
+                                call()
+                                call()
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end
+end

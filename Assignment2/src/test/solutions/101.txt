@@ -1,0 +1,6 @@
+func,main,(,),
+,begin,
+,a,<-,This is a string containing tab \t,
+,b,<-,He asked me: '"Where is John?'",
+,end,
+,<EOF>

@@ -1,0 +1,5 @@
+
+func main() 
+begin 
+    for i until i!=0 by 1 dynamic i
+end

@@ -1,0 +1,6 @@
+
+            string MiNhat
+            bool MiNhat
+            string MiNhat <- 1
+            bool MiNhat <- 1
+        

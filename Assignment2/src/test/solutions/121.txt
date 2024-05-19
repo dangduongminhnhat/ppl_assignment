@@ -1,0 +1,5 @@
+func,main,(,),
+,begin,
+,number,arr,[,string,,,abc,(,),],<-,[,[,1,,,2,],,,[,2,,,3,],],
+,end,
+,<EOF>

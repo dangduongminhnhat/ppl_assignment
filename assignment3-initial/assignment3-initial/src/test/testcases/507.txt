@@ -1,0 +1,7 @@
+
+func foo() begin
+     dynamic d
+     return d
+end
+func main() return
+

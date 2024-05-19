@@ -1,0 +1,16 @@
+
+func test_if(string a[1, 2, 3])
+begin
+    if (a < b)
+    if (a < b) number c
+    elif (a < c)
+    if (a < b) if (a < b) number c
+    else number c
+    if (a < b)
+    if (a < b) if (a < b)
+        number c
+    else number c
+    if (a < b) number c
+    elif (a < b) number c
+    else number c
+end

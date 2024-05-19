@@ -1,0 +1,13 @@
+
+## this is pre-declaration func
+func main()
+
+
+## this is function definition
+func main()     begin
+    number a <- 1.2e-12
+    number c <- (b + a) / c * a - d + goo()[1, 2, 3] * goo(a + b) * a[1, foo(), _c]
+    foo()
+    number k <- goo()[a + b, foo(), 1e-1]
+    return a
+end

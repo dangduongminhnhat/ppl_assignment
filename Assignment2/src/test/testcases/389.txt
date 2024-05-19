@@ -1,0 +1,3 @@
+
+func inc(number x) return x+1
+number a <-  inc(inc(inc(inc(3))))

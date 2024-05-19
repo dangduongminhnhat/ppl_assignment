@@ -1,0 +1,4 @@
+
+,[,>=,bool,else,func,*,82,[,%,return,true,break,break,begin,and,
+,],<=,dynamic,
+,<EOF>

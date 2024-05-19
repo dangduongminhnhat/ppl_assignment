@@ -1,0 +1,17 @@
+
+func test_looping(string a[1, 2], number __[0], bool cc_c)
+begin
+    if (a > b)
+        for a until a + 1 by b + 1 if (a > b)
+                if (a > b) number c
+                elif (a > b) number c
+                elif (a > b) number c
+                else number c
+            else
+                break
+    else
+        for a until a > b by a * b / c
+            for a until ssss[1, 2] by foo("hey", true, false, 1.e-3)
+                if (a > b) number c
+                else number c
+end

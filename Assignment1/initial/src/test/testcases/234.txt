@@ -1,0 +1,5 @@
+func bar(number arr[6,8])
+begin
+x[2,8] <- y + "abc\'x"...6
+end
+

@@ -1,0 +1,4 @@
+
+            dynamic MiNhat <- 1
+            dynamic MiNhat
+        

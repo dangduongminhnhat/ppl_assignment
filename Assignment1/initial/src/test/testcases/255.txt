@@ -1,0 +1,8 @@
+func max(number a, string b)
+begin
+## Comment 
+if (boolean) doSomething()
+else 
+
+doSomethingElse()
+end

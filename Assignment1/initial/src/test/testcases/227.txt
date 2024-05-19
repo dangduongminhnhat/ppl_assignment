@@ -1,0 +1,4 @@
+func bar(string str[6])   
+begin ## begin
+var x <- y + "abc'"x"
+end

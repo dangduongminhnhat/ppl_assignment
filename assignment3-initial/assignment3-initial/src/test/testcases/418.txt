@@ -1,0 +1,13 @@
+
+            number a
+            func MiNhat() return
+            func main()begin
+                number a
+                number c
+                string MiNhat
+                begin
+                    number c
+                    string MiNhat
+                end
+            end
+        

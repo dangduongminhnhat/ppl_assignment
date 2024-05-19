@@ -1,0 +1,6 @@
+
+func test_exp()
+begin
+    number a <- c[1, d[1, 2, 3, foo()[1, 2]], goo() + 1 * 3 / b, h[1, 1]]
+    return a
+end

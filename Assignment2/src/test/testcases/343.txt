@@ -1,0 +1,13 @@
+
+## this is a comment
+
+
+
+
+## this is a comment
+    ## this is a comment
+func test_comment() ##this is no space comment
+begin
+    number a ## this is allowed
+    return false
+end

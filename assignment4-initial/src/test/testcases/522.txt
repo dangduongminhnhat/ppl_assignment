@@ -1,0 +1,9 @@
+
+        func foo()
+            return true
+        func main ()
+        begin
+            bool a <- foo()
+            writeBool(a)
+        end
+        

@@ -1,0 +1,5 @@
+func main()
+begin
+## This is comment.
+a <- 5
+end

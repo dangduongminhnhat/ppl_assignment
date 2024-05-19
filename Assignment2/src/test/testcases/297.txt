@@ -1,0 +1,1 @@
+average <- (score1 + score2) / 2

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(foo123478_main_09), [], Block([VarDecl(Id(a), NumberType, None, ArrayLit(NumLit(1.0), NumLit(2.0), ArrayLit(NumLit(1.0), NumLit(2.0), ArrayLit(NumLit(1.0), NumLit(4.0))), ArrayLit(NumLit(3.0), NumLit(4.0))))]))])

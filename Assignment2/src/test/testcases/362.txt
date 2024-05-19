@@ -1,0 +1,22 @@
+
+func main()
+begin
+    number i0
+    number i1
+    number i2
+    number i3
+    number i4
+    number i5
+    number i6
+    number i7
+    for i0 until true by 1
+        for i1 until false by _ * _
+            for i2 until ("a" ... "c") > (not b and c or d) by 12.12e-12
+                for i3 until b >= (c + foo()[1, 2]) by foo("abc", d, true)
+                    for i4 until -3 or -x by "string"
+                        for i5 until "" by [1, 2, 3]
+                            for i6 until [[foo()[0, 0]]] by 12.e-2
+                                for i7 until false by _(_,_,_)
+                                    do_something()
+    return
+end

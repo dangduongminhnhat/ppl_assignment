@@ -1,0 +1,5 @@
+
+func unaryDestroyer()
+begin
+    a <- not not not---(not-(not-(not not-(not not not-(not not not not----(not-----(not not---(not not not--(foo()[0])))))))))
+end

@@ -1,0 +1,5 @@
+ 
+            func main()
+            ## Dang Nhat
+            func main() func main(dynamic a) ## Dang Nhat
+        

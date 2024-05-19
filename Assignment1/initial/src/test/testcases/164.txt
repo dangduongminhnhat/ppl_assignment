@@ -1,0 +1,5 @@
+func True(number _) begin       
+if (x <= _ and f(z) == true or _) 
+        falSe(a,2,"b")
+
+end

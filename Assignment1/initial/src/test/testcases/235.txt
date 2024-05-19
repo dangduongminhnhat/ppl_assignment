@@ -1,0 +1,5 @@
+func bar(number arr[6,8], bool r)
+begin
+x[2,8] <- [1,2,"3"]
+end
+

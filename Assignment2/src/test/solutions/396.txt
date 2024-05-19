@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([If((NumLit(1.0), Return()), [(NumLit(2.0), If((NumLit(3.0), Return()), [(NumLit(4.0), Return()), (NumLit(5.0), Return())], Return()))], None)]))])

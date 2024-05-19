@@ -1,0 +1,5 @@
+
+func foo123478_main_09()
+begin
+    number a <- [1, 2, [1, 2, [1, 4]], [3, 4]]
+end

@@ -1,0 +1,3 @@
+
+            string MiNhat <- 1
+        

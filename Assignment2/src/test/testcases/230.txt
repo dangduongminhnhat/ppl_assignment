@@ -1,0 +1,3 @@
+ 
+            dynamic MiNhat[5] <- 3
+        

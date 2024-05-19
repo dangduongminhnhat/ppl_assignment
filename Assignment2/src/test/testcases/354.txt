@@ -1,0 +1,19 @@
+
+func subDestroyer()
+begin
+    number a <- (b)
+    number a <- ((b))
+    number a <- (((b)))
+    number a <- ((((b))))
+    number a <- (((((b)))))
+    number a <- ((((((b))))))
+    number a <- (((((((b)))))))
+    number a <- ((((((((b))))))))
+    number a <- (((((((((b)))))))))
+    number a <- ((((((((((b))))))))))
+    number a <- (((((((((((b)))))))))))
+    number a <- ((((((((((((b))))))))))))
+    number a <- (((((((((((((b)))))))))))))
+    number a <- ((((((((((((((b))))))))))))))
+    number a <- (((((((((((((((b)))))))))))))))
+end

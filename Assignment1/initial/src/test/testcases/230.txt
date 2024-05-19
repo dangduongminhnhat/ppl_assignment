@@ -1,0 +1,6 @@
+func bar(string str[false]) ## func ##
+begin
+var x <- y + "abc\'x"
+end
+
+number arr[true]

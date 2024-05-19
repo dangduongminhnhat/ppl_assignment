@@ -1,0 +1,11 @@
+
+        string a
+        func main ()
+        begin
+            string b <- "minhat"
+            begin
+                a <- b
+            end
+            writeString(a)
+        end
+        

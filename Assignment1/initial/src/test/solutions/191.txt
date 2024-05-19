@@ -1,0 +1,6 @@
+
+,a,<-,5555,
+,number,b,<-,-,5678,
+,string,c,<-,PTMD,
+,bool,d,<-,true,
+,<EOF>

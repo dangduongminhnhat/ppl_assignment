@@ -1,0 +1,5 @@
+
+        var tRue <- true
+        func ahihi() return
+        if (IF) else fALse <- true
+        

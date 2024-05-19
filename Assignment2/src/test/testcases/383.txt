@@ -1,0 +1,30 @@
+
+func integral(number a, number b,number c) return c*b-c*a 
+func sin(number x,bool degree, number exactrate) begin 
+    var pi <- 3.141592653589793238462643383279502884197
+    if (degree) x<- x*pi/180
+    x<- x%(2*pi)
+    number pow <- x 
+    dynamic i<-1
+    dynamic fact <- 1
+    dynamic res <- 2*x
+    for i until i=exactrate by 2
+    begin
+        res <- res - pow/fact 
+        pow <- pow * x * X
+        fact <- fact*i*(i-1)
+    end
+    return res
+end
+func main() begin 
+    var n1 <- 1
+    var n2 <- 2
+    var n3 <- 3
+    var n4 <- 4
+    var b1 <- true 
+    var b2 <- fasle 
+    var b3 <- not true 
+    var b4 <- true or false 
+    dynamic res 
+    res <- ( integral((n1*2 + 2*n1*n2 - n3*-n4)*n1%n2/n3+n4--n1*sin(3.14,false,701)) > sin(n1*n2-n3%n4,n1=n2*3-n4+sin(n1,n2>n3,701*n2%1),701) ) or (not b1 and b2 and not b3 or b4) and (b1 and not b4 or b3 and not b2)
+end
